@@ -1,7 +1,7 @@
 # Change Log
 
-## [1.6.1](https://github.com/brendanhay/amazonka/tree/1.6.1)
-Released: **03 Feb, 2019**, Compare: [1.6.0](https://github.com/brendanhay/amazonka/compare/1.6.0...1.6.1)
+## [1.6.2](https://github.com/brendanhay/amazonka/tree/1.6.2)
+Released: **03 Feb, 2019**, Compare: [1.6.0](https://github.com/brendanhay/amazonka/compare/1.6.0...1.6.2)
 
 ### Fixed
 
